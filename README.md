@@ -29,7 +29,7 @@ Open `index.html` in any modern browser — no build step, no dependencies, no s
 
 1. Clone the repository
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/sentinelemran/Smart-credit-card.git
    ```
 2. Open `index.html` directly in your browser, or serve it with any static file server.
 
